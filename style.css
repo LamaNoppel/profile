@@ -1,0 +1,66 @@
+/* Here goes your CSS *//* Here goes your CSS */
+h1 {
+    color: #DD5555;
+    font-size: 22px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    line-height: 1.6em;
+}
+
+body {
+    background-color: #EBEBEB;
+    font-family: 'Open Sans', sans-serif;
+    color: #7d7d7d;
+    font-size: 15px;
+    font-weight: 300;
+    line-height: 1.6em;
+}
+
+h2 {
+  color: #7d7d7d;
+  font-size: 18px;
+  font-weight: 300;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.6em;
+}
+img {
+  max-height: 200px;
+  max-width: 200px;
+}
+
+h3 {
+  font-size: 16px;
+  font-weight: 300;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a:link {
+    color: red;
+}
+
+a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.text-center {
+    text-align: center;
+}
+
+div {
+    display: block;
+}
+
+.container {
+    width: 500px;
+    margin: 30px auto;
+}
+
